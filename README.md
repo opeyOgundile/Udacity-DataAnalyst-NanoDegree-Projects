@@ -18,4 +18,4 @@ It is also mandatory for me to assess the data manually and programmatically in 
 
 ## Project 5 - Data Visualization of Bike Sales
 This project is on the exploration of dataset containing bike sales.
-In this project I wanted to see the variables that brought it more sales for the Bike stores. Also to check if there was an impact of Cost on Revenue. I also considered profit made by different age groups. The main variables considered were Ageof customer, Country of Customer, State of Customer, Gender of Customers, Cost of products, Products, Product Category, Revenue, and Profit.
+In this project I wanted to see the variables that contributed to the salesof Bike in the store. Also to check if there was an impact of Cost on Revenue. I also considered profit made by different age groups. The main variables considered were Ageof customer, Country of Customer, State of Customer, Gender of Customers, Cost of products, Products, Product Category, Revenue, and Profit.
